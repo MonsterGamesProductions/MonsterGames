@@ -67,8 +67,13 @@ https://templatemo.com/tm-556-catalog-z
             <div class="col-lg-4 col-12 mb-5">
                 <h2 class="tm-text-primary mb-5">Contact Page</h2>
 				
-				
-                <form id="contact-form" action="send_email.php" method="POST" class="tm-contact-form mx-auto">
+<form id="contact-form" action="https://formsubmit.co/admin@monstergamesproductions.com.au" method="POST" class="tm-contact-form mx-auto">
+    <!-- Redirect to a thank-you page after submission (optional) -->
+    <input type="hidden" name="_next" value="https://monstergamesproductions.com.au/thank-you.html">
+
+    <!-- Optional: Disable CAPTCHA -->
+    <input type="hidden" name="_captcha" value="false">
+
     <div class="form-group">
         <input type="text" name="name" class="form-control rounded-0" placeholder="Name" required />
     </div>
@@ -90,7 +95,8 @@ https://templatemo.com/tm-556-catalog-z
     <div class="form-group tm-text-right">
         <button type="submit" class="btn btn-primary">Send</button>
     </div>
-</form>    
+</form>
+
 
        
             </div>
