@@ -220,7 +220,6 @@ appnexus.com, 7353, RESELLER, f5ab79cb980f11d1
 appnexus.com, 9393, RESELLER, f5ab79cb980f11d1
 betweendigital.com, 45827, RESELLER
 bidease.com, bidease_seller_20, RESELLER
-
 bidmachine.io, 114, RESELLER
 bidmachine.io, 162, RESELLER
 bidmachine.io, 67, RESELLER
@@ -373,7 +372,10 @@ yandex.com, 97539269, RESELLER
 yeahmobi.com, 5135195, RESELLER
 zmaticoo.com, 5135195, RESELLER
 
-mintegral.com, your PublisherID, DIRECT, 0aeed750c80d6423
+
+
+
+mintegral.com, 49839, DIRECT, 0aeed750c80d6423
 pokkt.com, 7139, RESELLER, c45702d9311e25fd
 appads.in, 107139, RESELLER
 pubmatic.com, 160456, RESELLER, 5d62403b186f2ace
@@ -3772,6 +3774,7 @@ zetaglobal.net, 815, RESELLER
 zetaglobal.net, 546, RESELLER
 zetaglobal.net, 891, RESELLER
 zmaticoo.com, 5135004, RESELLER
+
 
 
 
