@@ -3833,6 +3833,21 @@ yieldmo.com, 2719019867620450718, RESELLER
 zetaglobal.net, 815, RESELLER
 zetaglobal.net, 546, RESELLER
 zetaglobal.net, 891, RESELLER
-
+adagio.io, 1577, RESELLER 
+apexflowsdk.com, 98873, RESELLER, c04b215ax
+appnexus.com, 3741, RESELLER, f5ab79cb980f11d1
+eskimi.com, 2020001289, RESELLER
+google.com, pub-7756262923332577, RESELLER, f08c47fec0942fa0
+insticator.com, 9a78f9d0-9cb7-4e5e-b869-eb0d9c344f13, RESELLER, b3511ffcafb23a32
+ogury.com, 065d4ff5-a269-44be-9634-9d4d7af2dfc3, RESELLER
+ogury.com, 13245a85-9158-46ec-be6b-c420cd62dd55, RESELLER
+ogury.com, 5bbe7af9-d51f-499e-a804-db54798d96f4, RESELLER
+oko.uk, 9a78f9d0-9cb7-4e5e-b869-eb0d9c344f13, RESELLER, b3511ffcafb23a32
+sharethrough.com, 4537, RESELLER, 060d053dcf45cbf3
+smilewanted.com, 6061, RESELLER
+triplelift.com, 6998, RESELLER, 6c33edb13117fd86
+triplelift.com, 13686, RESELLER, 6c33edb13117fd86
+triplelift.com, 13686-EB, RESELLER, 6c33edb13117fd86
+vidazoo.com, 6a04bf983b6b70e1f48a52c2, RESELLER, b6ada874b4d7d0b2
 
 
