@@ -7,11 +7,30 @@
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="fontawesome/css/all.min.css">
     <link rel="stylesheet" href="css/templatemo-style.css">
-<!--
-
-
-
--->
+    <style>
+        .store-buttons {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            flex-wrap: wrap;
+            margin-top: 10px;
+        }
+        .store-buttons a {
+            display: inline-block;
+            line-height: 0;
+        }
+        .store-buttons img {
+            height: 40px !important;
+            width: auto !important;
+            max-width: 140px;
+            object-fit: contain;
+        }
+        @media (max-width: 576px) {
+            .store-buttons img {
+                height: 34px !important;
+            }
+        }
+    </style>
 </head>
 <body>
     <!-- Page Loader -->
@@ -80,20 +99,15 @@
                     <p class="mb-4">
                         Hop onto the driving seat of your formula racing car, get onto state-of-the-art tracks across the globe, and prove yourself on the circuit. Experience cars rushing past each other to the finish line in high-speed formula car racing action.
                     </p>
-
-
-					<!-- Store buttons -->
-<div class="store-buttons">
-    <a href="https://play.google.com/store/apps/details?id=com.monstergamesproductions.formula.racing" target="_blank" rel="noopener noreferrer">
-        <img src="img/playstore.png" alt="Get it on Google Play">
-    </a>
-    <a href="https://apps.apple.com/app/id1392881154" target="_blank" rel="noopener noreferrer">
-        <img src="img/appstore.png" alt="Download on the App Store">
-    </a>
-</div>
-
-					
-	
+                    <!-- Store buttons -->
+                    <div class="store-buttons">
+                        <a href="https://play.google.com/store/apps/details?id=com.monstergamesproductions.formula.racing" target="_blank" rel="noopener noreferrer">
+                            <img src="img/playstore.png" alt="Get it on Google Play">
+                        </a>
+                        <a href="https://apps.apple.com/app/id1392881154" target="_blank" rel="noopener noreferrer">
+                            <img src="img/appstore.png" alt="Download on the App Store">
+                        </a>
+                    </div>
                 </div>
             </div>
         </div>
